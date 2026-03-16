@@ -40,7 +40,6 @@ pip install matplotlib
 From the project root:
 
 ```bash
-cd "C:\UnifyCX Internship\User Story 10"
 python -m src.main
 ```
 
@@ -65,7 +64,6 @@ This will:
 From the project root:
 
 ```bash
-cd "C:\UnifyCX Internship\User Story 10"
 pytest
 ```
 
@@ -80,7 +78,6 @@ The test suite covers:
 After you have run the pipeline and generated `customer_loyalty_report.csv` and `analytics_summary.json`, you can view a simple text-based visualization (ASCII charts and tables) from the project root:
 
 ```bash
-cd "C:\UnifyCX Internship\User Story 10"
 python -m src.visualizer
 ```
 
@@ -95,7 +92,6 @@ This will display:
 After running the pipeline and generating `customer_loyalty_report.csv` and `analytics_summary.json`, you can open bar and pie charts using matplotlib:
 
 ```bash
-cd "C:\UnifyCX Internship\User Story 10"
 python -m src.visualizer
 ```
 
