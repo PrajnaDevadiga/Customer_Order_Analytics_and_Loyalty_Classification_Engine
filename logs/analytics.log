@@ -1,0 +1,30 @@
+2026-03-13 21:33:11,891 [INFO] __main__ - Loading customers from C:\UnifyCX Internship\User Story 10\customers.csv
+2026-03-13 21:33:11,907 [INFO] __main__ - Loading orders from C:\UnifyCX Internship\User Story 10\orders.csv
+2026-03-13 21:33:11,907 [INFO] __main__ - Processing orders for customers
+2026-03-13 21:33:11,907 [WARNING] src.order_processor - Invalid order date skipped: invalid_date
+2026-03-13 21:33:11,907 [WARNING] src.order_processor - Negative order amount ignored for order_id=O030
+2026-03-13 21:33:11,907 [WARNING] src.order_processor - Order with unknown customer_id encountered: C999
+2026-03-13 21:33:11,907 [INFO] __main__ - Writing customer loyalty report to C:\UnifyCX Internship\User Story 10\customer_loyalty_report.csv
+2026-03-13 21:33:11,907 [INFO] __main__ - Generating analytics summary
+2026-03-13 21:33:11,917 [INFO] __main__ - Writing analytics summary to C:\UnifyCX Internship\User Story 10\analytics_summary.json
+2026-03-13 21:33:11,917 [INFO] __main__ - Pipeline completed successfully
+2026-03-13 21:47:50,727 [INFO] __main__ - Loading customers from C:\UnifyCX Internship\User Story 10\customers.csv
+2026-03-13 21:47:50,727 [INFO] __main__ - Loading orders from C:\UnifyCX Internship\User Story 10\orders.csv
+2026-03-13 21:47:50,727 [INFO] __main__ - Processing orders for customers
+2026-03-13 21:47:50,727 [WARNING] src.order_processor - Invalid order date skipped: invalid_date
+2026-03-13 21:47:50,727 [WARNING] src.order_processor - Negative order amount ignored for order_id=O030
+2026-03-13 21:47:50,727 [WARNING] src.order_processor - Order with unknown customer_id encountered: C999
+2026-03-13 21:47:50,727 [INFO] __main__ - Writing customer loyalty report to C:\UnifyCX Internship\User Story 10\customer_loyalty_report.csv
+2026-03-13 21:47:50,738 [INFO] __main__ - Generating analytics summary
+2026-03-13 21:47:50,740 [INFO] __main__ - Writing analytics summary to C:\UnifyCX Internship\User Story 10\analytics_summary.json
+2026-03-13 21:47:50,740 [INFO] __main__ - Pipeline completed successfully
+2026-03-13 21:50:44,636 [INFO] __main__ - Loading customers from C:\UnifyCX Internship\User Story 10\customers.csv
+2026-03-13 21:50:44,636 [INFO] __main__ - Loading orders from C:\UnifyCX Internship\User Story 10\orders.csv
+2026-03-13 21:50:44,636 [INFO] __main__ - Processing orders for customers
+2026-03-13 21:50:44,652 [WARNING] src.order_processor - Invalid order date skipped: invalid_date
+2026-03-13 21:50:44,652 [WARNING] src.order_processor - Negative order amount ignored for order_id=O030
+2026-03-13 21:50:44,652 [WARNING] src.order_processor - Order with unknown customer_id encountered: C999
+2026-03-13 21:50:44,652 [INFO] __main__ - Writing customer loyalty report to C:\UnifyCX Internship\User Story 10\customer_loyalty_report.csv
+2026-03-13 21:50:44,652 [INFO] __main__ - Generating analytics summary
+2026-03-13 21:50:44,652 [INFO] __main__ - Writing analytics summary to C:\UnifyCX Internship\User Story 10\analytics_summary.json
+2026-03-13 21:50:44,652 [INFO] __main__ - Pipeline completed successfully
